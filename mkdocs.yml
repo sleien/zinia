@@ -1,0 +1,11 @@
+site_name: Zinia
+site_url: https://zinia.schneider.today
+
+theme:
+  name: material
+  favicon: img/favicon.svg
+
+nav:
+  - Home: index.md
+  - NPCs: npcs.md
+  - Cities: cities.md
