@@ -7,5 +7,7 @@ theme:
 
 nav:
   - Home: index.md
+  - Sessions: sessions.md
   - NPCs: npcs.md
   - Cities: cities.md
+  - PCs: pcs.md
