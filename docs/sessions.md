@@ -39,6 +39,8 @@ Otic versteinert
 Medusa stirbt im Kampf
 Remove Curse & Dispel Magic bewirkt nichts.
 
+Medusa Kopf / Herz / Schlange lootbar
+
 Pläne:
 Fallen suchen
 Loot suchen
