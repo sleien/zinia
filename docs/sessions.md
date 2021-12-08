@@ -13,13 +13,13 @@ Kontinent aufgesplittet in 2 Hälften
 Killigan Strom fliesst von Berg ins Meer - Süsswasser Fluss
 Ressourcen werden besessen, nicht Gebiete
 Slaven sind erwünscht (von der Bevölkerung nicht 100%)
-
+  
 Nächster Halbkontinent - Vladox
-
+  
 Party startet im Ort Senets Steingruft
 Spezielle Pyramide (lange Zeit vergraben)
 Kleine Miliz (3 Leader; 20 Kämpfer (Mantiskrieger und einige Zwerge); 60-70 Sklaven;)
-
+  
 Elandorr mit Hisband Starkstrom (Gnom Magier) in Ruine
 Elandorr hat Sonnen Amulett mit 6 Flammen (2 Flammen leuchten)
 Einige Traps in den Ruinen & Monsters
@@ -38,10 +38,16 @@ Bei Tod von Engel zerbröckelt Stein und Medusa erscheint
 Otic versteinert
 Medusa stirbt im Kampf
 Remove Curse & Dispel Magic bewirkt nichts.
+  
+Medusa loot:
+- Kopf 
+- Herz 
+- Schlange
+    - Petrification Antidote
 
-Medusa Kopf / Herz / Schlange lootbar
 
-Pläne:
-Fallen suchen
-Loot suchen
-Geheimgänge suchen
+  
+Pläne:  
+Fallen suchen  
+Loot suchen  
+Geheimgänge suchen  

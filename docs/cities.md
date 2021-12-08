@@ -1,5 +1,6 @@
 # Ezoth
 
 ## Hetu
-Hauptstadt
-Am Meer und Killigan Strom
+Hauptstadt  
+Grosse Sklavenstadt (ca 90%)  
+Am Meer und Killigan Strom  
