@@ -6,8 +6,7 @@ theme:
   favicon: img/favicon.svg
 
 nav:
-  - Home: index.md
-  - Sessions: sessions.md
+  - Home: sessions.md
   - NPCs: npcs.md
   - Cities: cities.md
   - PCs: pcs.md
