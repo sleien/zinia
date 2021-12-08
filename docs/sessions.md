@@ -40,10 +40,11 @@ Medusa stirbt im Kampf
 Remove Curse & Dispel Magic bewirkt nichts.
   
 Medusa loot:
+
 - Kopf 
 - Herz 
 - Schlange
-    - Petrification Antidote
+    * Petrification Antidote
 
 
   
