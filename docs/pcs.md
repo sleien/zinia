@@ -5,7 +5,7 @@ Grün
   
 # Bash & Bonk (Brüder)  
 Halbork  
-Gross (2m) und Breit  
+Gross (2m) und Breit (Bonk 1cm grösser)  
 Wenig sprechen  
 21  
   

@@ -43,7 +43,7 @@ Medusa loot:
 
 - Kopf 
 - Herz 
-- Schlange
+- 15x Schlange
     * Petrification Antidote
 
 
@@ -52,3 +52,26 @@ Pläne:
 Fallen suchen  
 Loot suchen  
 Geheimgänge suchen  
+
+## Session 2  
+
+Bonk stösst zur Gruppe  
+Elandorr trifft auf Platte und Poison Dart macht ihm 8 Schaden  
+Lichtspiegel Rätsel mit Mumie und Giftgas  
+
+#### 22:00
+
+Schatzkammer mit:
+
+ - Silberkette (magisch)
+ - 3x Kisten
+    * Müntzen mit Curses
+ - Horn (magisch)
+    * Disrupts Spells
+    * Afraid of Sun
+ - Mantel (magisch)
+ - Gemälde (magisch)
+ - Potion
+ - Mug (magisch)
+ - Wand (magisch)
+
