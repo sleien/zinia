@@ -4,3 +4,6 @@
 Hauptstadt  
 Grosse Sklavenstadt (ca 90%)  
 Am Meer und Killigan Strom  
+  
+## Ameisenberg  
+Gebaut von Monsterameisen  

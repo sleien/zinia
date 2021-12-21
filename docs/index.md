@@ -2,7 +2,7 @@
 
 A.F. = After fall
 
-## Session 1
+## Session 1  
 ### 07.12.2021 A.F.
 
 Kontinent Ezoth  
@@ -74,4 +74,49 @@ Schatzkammer mit:
  - Potion
  - Mug (magisch)
  - Wand (magisch)
+  
+## Session 3
+  
+Trickster Boots gefunden  
+Ruine verlassen
+Hisband gibt Belohnung (100g/pro Kopf)  
+  
+Long Rest  
 
+### 08.12.2021 A.F.
+  
+Neuer Auftrag von Hisband - Waren nach Hetu transportieren - in Distrikt 4 zum Anwesend von Mavrek Grell
+
+Downtime
+
+### 10.12.2021 A.F.
+  
+Reise nach Hetu mit 2 Kamelen  
+Abliefern bei Horser Grokkos  
+  
+### 12.12.2021 A.F.
+  
+Glorreicher Sonnenuntergang mit riesen Sandsturm am Horizont  
+  
+### 13.12.2021 A.F.
+  
+Encounter mit Stranger, er rennt weg...
+
+### 15.12.2021 A.F.
+  
+Obelisk mit Schädel & grosser Rubin  
+Alle frightend  
+Inspiration  
+  
+### 18.12.2021 A.F.
+  
+Tabaxi Encounter - Kannibal...
+
+### 23.12.2021 A.F.
+  
+Hütten für Longrest gefunden  
+Waterskin wieder voll  
+  
+Bronze Drachen (Marom) Encounter  
+Freundlich gesinnt trodz Eldrich Blast  
+Crush silber Drächin - Territorium nördlich vom Ameisenberg (Gebaut von ausgestorbenen Monsterameisen)  
